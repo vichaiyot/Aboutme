@@ -8,7 +8,7 @@ I am studying at Rangsit university
 
 * 🌍  I'm based in Ayutthaya
 * ✉️  You can contact me at [vichaiyotngoensiri@gmail.com](mailto:vichaiyotngoensiri@gmail.com)
-* 🧠  I'm learning thai
+* 🧠  I'm learning C & C++
 
 ### Skills
 
